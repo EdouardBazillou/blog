@@ -23,8 +23,6 @@ function App() {
 
       <ContenuPrincipal />
 
-      <Article />
-
       <Footer />
     </div>
   );
